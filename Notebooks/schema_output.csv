@@ -1,0 +1,7 @@
+TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+dapDB,dbo,Sales_July_2019,BASE TABLE
+dapDB,dbo,Sales_August_2019,BASE TABLE
+dapDB,dbo,Sales_September_2019,BASE TABLE
+dapDB,dbo,Sales_October_2019,BASE TABLE
+dapDB,dbo,Sales_November_2019,BASE TABLE
+dapDB,dbo,Sales_December_2019,BASE TABLE

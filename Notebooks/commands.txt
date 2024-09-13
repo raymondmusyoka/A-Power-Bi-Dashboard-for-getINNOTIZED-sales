@@ -1,0 +1,4 @@
+python -m venv Bi.env
+source Bi.env/Scripts/activate
+python -m pip install -q --upgrade pip
+python -m pip install -r requirements.txt
